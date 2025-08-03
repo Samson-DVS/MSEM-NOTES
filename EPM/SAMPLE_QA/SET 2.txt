@@ -1,0 +1,258 @@
+📚 Batch 2: Multiple Choice Questions (MCQs) — Questions 51 to 100
+From Lesson 1: Introduction to Project Management
+51. In project management, the main constraint categories are:
+• A) Cost, speed, motivation, documentation
+• B) Quality, schedule, scope, cost, resources, risk ✔️
+• C) Customer, contractor, consultant, collaborator
+• D) Hardware, software, personnel, funding
+52. According to the PMBOK® Guide, a functional manager has control over:
+• A) Schedule only
+• B) Project communications and final deliverables
+• C) Budgets, decisions, and communications within their specialty ✔️
+• D) Organizational vision only
+53. Which term describes a set of related projects or programs managed in a coordinated way?
+• A) Portfolio
+• B) Program ✔️
+• C) Subproject
+• D) Activity
+54. Which is NOT a PMBOK® knowledge area?
+• A) Integration management
+• B) Stakeholder management
+• C) Sales management ✔️
+• D) Communications management
+55. “Progressively elaborated detail” in a project means:
+• A) Work is planned only at the start
+• B) Details are constantly updated as the project progresses ✔️
+• C) The entire project is defined before starting
+• D) Team members work independently
+From Lesson 2: Project Selection and Prioritization
+56. Which financial metric calculates the percentage return expected on a project's investment?
+• A) Payback Period
+• B) Internal Rate of Return (IRR) ✔️
+• C) Net Present Value (NPV)
+• D) Scoring model
+57. A project with a payback period of 2 years is generally considered:
+• A) Undesirable
+• B) Preferable to one with a payback period of 5 years ✔️
+• C) More expensive
+• D) Not prioritizable
+58. The main weakness of using only financial models for project selection is:
+• A) They are too complex
+• B) They ignore alignment with organizational strategy ✔️
+• C) They require monthly updates
+• D) They are too subjective
+59. A “business case” in project selection:
+• A) Lists detailed technical requirements
+• B) Describes why the project is worth the investment ✔️
+• C) Is used only after approval
+• D) Outlines only resource needs
+60. Portfolio management is primarily concerned with:
+• A) Selecting suppliers
+• B) Aligning projects with strategy and allocating resources ✔️
+• C) HR resource tracking only
+• D) Setting product pricing
+From Lesson 3: Chartering Projects
+61. A high-level description of “what” and “how” in a charter is found in the:
+• A) Milestone schedule
+• B) Scope overview ✔️
+• C) Lessons learned section
+• D) Stakeholder list
+62. Which charter element defines “who will judge the quality of deliverables”?
+• A) Scope overview
+• B) Acceptance criteria ✔️
+• C) Team operating principles
+• D) Background
+63. Which is NOT typically found in a project charter?
+• A) Team operating principles
+• B) Background
+• C) Detailed test cases ✔️
+• D) Signatures and commitment
+64. “Scope creep” can be mitigated by:
+• A) Ignoring minor changes
+• B) Having a clear project scope and rigid change control ✔️
+• C) Allowing stakeholder additions at any time
+• D) Skipping project reviews
+65. Lessons learned in a charter should be:
+• A) Avoided
+• B) Added only after project completion
+• C) Used to improve project performance ✔️
+• D) Written by executive alone
+From Lesson 4: Stakeholder Analysis & Communication Planning
+66. The stakeholder analysis process includes all EXCEPT:
+• A) Identify stakeholders
+• B) Rank power/interest
+• C) Plan meetings only with managers ✔️
+• D) Document stakeholder information
+67. A stakeholder register is used to:
+• A) File contracts
+• B) Record and classify stakeholders relevant to the project ✔️
+• C) Assign team salaries
+• D) List meeting times
+68. In a RACI chart, “A” stands for:
+• A) Authorized
+• B) Accountable ✔️
+• C) Approved
+• D) Assured
+69. The main goal of a communications matrix is to:
+• A) Organize project documents
+• B) Detail project risks
+• C) Clarify who communicates what, to whom, and when ✔️
+• D) Track resource allocation
+70. Which is a major challenge in managing virtual project teams?
+• A) Increased need for face-to-face meetings
+• B) Difficulty in building relationships and cultural sensitivity ✔️
+• C) Lack of cloud technologies
+• D) Too many local resources
+From Lesson 5: Scope Planning
+71. In project scope management, a deliverable is:
+• A) Any item required for planning
+• B) Any unique and verifiable product, result, or capability required for project completion ✔️
+• C) Every task on the WBS
+• D) All documents created during planning
+72. What is a key output of creating a Work Breakdown Structure (WBS)?
+• A) List of project stakeholders
+• B) Hierarchical decomposition of project deliverables ✔️
+• C) Schedule network diagram
+• D) Resource matrix
+73. The purpose of scope verification is to:
+• A) Estimate resource allocation
+• B) Obtain formal acceptance of the completed project deliverables ✔️
+• C) Collect requirements
+• D) Change project boundaries
+74. Which of the following is NOT a scope control process goal?
+• A) Manage changes as they occur
+• B) Ignore change requests ✔️
+• C) Ensure changes are processed per procedure
+• D) Influence factors causing scope changes
+75. Project users should:
+• A) Only receive information at project close
+• B) Sign off on key deliverables at regular intervals ✔️
+• C) Never be on the project team
+• D) Ignore regular meetings
+From Lesson 6: Scheduling Projects
+76. The process of identifying the specific tasks for a project schedule is called:
+• A) Scheduling
+• B) Activity definition ✔️
+• C) Critical path analysis
+• D) Resource optimization
+77. A milestone in project scheduling is:
+• A) A task with unclear duration
+• B) A significant event or accomplishment with no duration ✔️
+• C) Always the end of the project
+• D) Required only for IT projects
+78. Which is NOT a dependency type in project scheduling?
+• A) Finish-to-Start
+• B) Start-to-Finish
+• C) Finish-to-Complete ✔️
+• D) Start-to-Start
+79. What do Gantt charts display?
+• A) Communication flows
+• B) Scheduled activities, durations, dependencies ✔️
+• C) Staffing plans only
+• D) Change approval forms
+80. The “critical path” is best described as:
+• A) The shortest path in a network
+• B) The longest path through the project network diagram ✔️
+• C) The path with most lead tasks
+• D) The way to assign resources
+From Lesson 7: Resourcing Projects
+81. A RACI chart helps:
+• A) Assign roles and clarify accountability on activities ✔️
+• B) Develop cost-benefit analysis
+• C) Create Gantt charts
+• D) Estimate duration
+82. Which technique delays non-critical activities but keeps critical path unchanged?
+• A) Fast tracking
+• B) Resource leveling ✔️
+• C) Project crashing
+• D) Gantt extension
+83. Project crashing means:
+• A) Removing resources to save money
+• B) Adding resources to shorten the schedule ✔️
+• C) Skipping activities
+• D) Increasing project scope
+84. What is a common risk in fast tracking?
+• A) Reduced project time
+• B) Increased schedule risk ✔️
+• C) Lower communication
+• D) Increased profit
+85. Resource overload can be resolved by:
+• A) Ignoring non-critical tasks
+• B) Reordering or delaying activities, adding resources, or reducing scope ✔️
+• C) Tightening deadlines
+• D) Adding more deliverables
+86. In a matrix organization, employees report to:
+• A) The sponsor only
+• B) Both a functional manager and a project manager ✔️
+• C) The customer only
+• D) The PMO alone
+87. Which of these is an advantage of a projectized organization?
+• A) Clear “two boss” structure
+• B) Faster decision-making ✔️
+• C) Retention of discipline-specific skills
+• D) Slower communication across functions
+88. A project stakeholder may be:
+• A) Only customers
+• B) Any individual or organization affected by or affecting a project ✔️
+• C) Executive team alone
+• D) Only on the project team
+89. A communication management plan details:
+• A) Only what the team will do
+• B) How, when, and by whom information about the project will be shared ✔️
+• C) Risk assessment strategies
+• D) The WBS hierarchy
+90. What is “float” in scheduling?
+• A) Slack time before a delay impacts the project ✔️
+• B) Completed milestones
+• C) Project team satisfaction
+• D) Staff overtime
+91. A scoring model for project selection is used to:
+• A) Rate and prioritize projects based on specific, weighted criteria ✔️
+• B) Assign project managers
+• C) Track procurement orders
+• D) Estimate project duration
+92. The “project management office (PMO)” provides:
+• A) Account and payment tracking
+• B) Standardization and resource management for projects ✔️
+• C) Only legal support
+• D) Only communication tools
+93. Which is a feature of good objectives?
+• A) Broad and undefined
+• B) SMART: Specific, Measurable, Achievable, Results-based, Time-specific ✔️
+• C) Maximum duration
+• D) Unmeasurable
+94. One purpose of documenting “lessons learned” is to:
+• A) Record only what went well
+• B) Share knowledge and avoid repeating mistakes ✔️
+• C) Capture personal opinions
+• D) Reward the sponsor
+95. Which network diagram technique estimates project duration?
+• A) PERT ✔️
+• B) SWOT
+• C) Gantt
+• D) CPM
+96. Project scope verification ensures:
+• A) All deliverables are accepted by the customer or sponsor ✔️
+• B) Costs are minimized
+• C) The WBS is as broad as possible
+• D) Only one stakeholder reviews work
+97. Which element is central to a good stakeholder management plan?
+• A) Assigning salaries
+• B) Analysis of interests, influence, and engagement approaches ✔️
+• C) Scheduling all meetings for one week
+• D) Tracking marketing metrics
+98. Which is NOT typically an input to project scope planning?
+• A) Project charter
+• B) WBS
+• C) Scope management plan
+• D) Marketing strategy document ✔️
+99. Milestone schedules are best used to:
+• A) Track every individual task
+• B) Highlight significant events and deliverable due dates ✔️
+• C) Allocate resource budgets
+• D) Replace a WBS
+100. The final project charter sign-off is performed by:
+• A) Team only
+• B) Sponsor, project manager, and core team ✔️
+• C) Stakeholder with least interest
+• D) HR department
